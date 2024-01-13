@@ -1,0 +1,40 @@
+nav {
+
+    background-color:black;
+  
+    color:white;
+  
+    }
+  
+  .karyawan {
+  
+    display:flex;
+  
+    width:50%;
+  
+    margin-left:100x;
+  
+    align-items:center;
+  
+    justify-content:space-between;
+  
+    }
+  
+  a {
+    text-decoration: none;
+    color:beige;
+   }
+  form {
+    widht:40%;
+    margin:aouto;
+    }
+  
+  th
+   text-align: right;
+  }
+   
+  th, td {
+    padding:5px;
+    }
+  
+  
